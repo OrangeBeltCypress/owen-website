@@ -1,0 +1,45 @@
+img{
+    width: 300px;
+}
+
+
+body{
+    background-color: rgb(35, 206, 225);
+}
+.first{
+    display: flex;
+}
+p{
+   margin-left: 15px; 
+}
+
+.words{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.first{
+   display: flex;
+   justify-content: space-evenly; 
+}
+button{
+    background-color: rgb(17, 226, 27);
+    font-size: 30px;
+}
+button:hover{
+    background-color: blue;
+}
+div{
+    display: flex;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    margin-right: 675px ;
+}
+.evolve{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
